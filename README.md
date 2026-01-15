@@ -1,7 +1,6 @@
 # LLM-and-Ontologies
 
-Este repositório contém os códigos e arquivos de uma pesqui!
-sa voltada para o enriquecimento semântico de regras de associação em dados de IoT.
+Este repositório contém os códigos e arquivos de uma pesquisa voltada para o enriquecimento semântico de regras de associação em dados de IoT.
 ![arquitetura](https://github.com/user-attachments/assets/32dac771-21d6-4391-8c6b-e1a0c1db64a5)
 
 
